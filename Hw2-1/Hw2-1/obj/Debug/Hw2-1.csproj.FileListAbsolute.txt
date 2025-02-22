@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Hw2-1\Hw2-1\bin\Debug\Hw2-1.exe.config
+C:\Users\USER\Desktop\Hw2-1\Hw2-1\bin\Debug\Hw2-1.exe
+C:\Users\USER\Desktop\Hw2-1\Hw2-1\bin\Debug\Hw2-1.pdb
+C:\Users\USER\Desktop\Hw2-1\Hw2-1\obj\Debug\Hw2-1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Hw2-1\Hw2-1\obj\Debug\Hw2-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Hw2-1\Hw2-1\obj\Debug\Hw2-1.exe
+C:\Users\USER\Desktop\Hw2-1\Hw2-1\obj\Debug\Hw2-1.pdb

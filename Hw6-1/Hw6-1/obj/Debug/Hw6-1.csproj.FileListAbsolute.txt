@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\bin\Debug\Hw6-1.exe.config
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\bin\Debug\Hw6-1.exe
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\bin\Debug\Hw6-1.pdb
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\obj\Debug\Hw6-1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\obj\Debug\Hw6_1.Form1.resources
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\obj\Debug\Hw6_1.Properties.Resources.resources
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\obj\Debug\Hw6-1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\obj\Debug\Hw6-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\obj\Debug\Hw6-1.exe
+C:\Users\USER\Desktop\Hw6-1\Hw6-1\obj\Debug\Hw6-1.pdb

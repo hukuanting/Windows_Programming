@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\bin\Debug\Hw4-1.exe.config
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\bin\Debug\Hw4-1.exe
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\bin\Debug\Hw4-1.pdb
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\obj\Debug\Hw4-1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\obj\Debug\Hw4_1.Form1.resources
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\obj\Debug\Hw4_1.Properties.Resources.resources
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\obj\Debug\Hw4-1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\obj\Debug\Hw4-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\obj\Debug\Hw4-1.exe
+C:\Users\USER\Desktop\Hw4-1\Hw4-1\obj\Debug\Hw4-1.pdb

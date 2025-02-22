@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Hw2\Hw2\bin\Debug\Hw2.exe.config
+C:\Users\USER\Desktop\Hw2\Hw2\bin\Debug\Hw2.exe
+C:\Users\USER\Desktop\Hw2\Hw2\bin\Debug\Hw2.pdb
+C:\Users\USER\Desktop\Hw2\Hw2\obj\Debug\Hw2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Hw2\Hw2\obj\Debug\Hw2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Hw2\Hw2\obj\Debug\Hw2.exe
+C:\Users\USER\Desktop\Hw2\Hw2\obj\Debug\Hw2.pdb

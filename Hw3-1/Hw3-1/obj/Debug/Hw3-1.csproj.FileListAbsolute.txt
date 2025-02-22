@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\bin\Debug\Hw3-1.exe.config
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\bin\Debug\Hw3-1.exe
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\bin\Debug\Hw3-1.pdb
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\obj\Debug\Hw3-1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\obj\Debug\Hw3_1.Form1.resources
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\obj\Debug\Hw3_1.Properties.Resources.resources
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\obj\Debug\Hw3-1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\obj\Debug\Hw3-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\obj\Debug\Hw3-1.exe
+C:\Users\USER\Desktop\Hw3-1\Hw3-1\obj\Debug\Hw3-1.pdb
